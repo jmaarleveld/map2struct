@@ -1,7 +1,13 @@
 [package]
 name = "map2struct-derive"
+description = "derive macro for map2struct."
+homepage = "https://github.com/jmaarleveld/map2struct"
+repository = "https://github.com/jmaarleveld/map2struct"
+documentation = "https://docs.rs/map2struct"
+readme = "README.md"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
