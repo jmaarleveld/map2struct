@@ -1,0 +1,12 @@
+[package]
+name = "map2struct"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+thiserror = "1.0.58"
+anyhow = "1.0.82"
+serde = "1.0.197"
+map2struct-derive = { path = "../map2struct-derive"}
